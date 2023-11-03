@@ -1,0 +1,108 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.container{
+    width: 90%;
+    margin: auto;
+}
+.clearfix {
+    clear: both;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+}
+
+.nest {
+    list-style: none;
+    
+    float: left;
+    width: 50%;
+    
+
+}
+
+.logo {
+    float: left;
+    width: 30%;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.user {
+    float: right;
+    
+    width: 20%;
+    text-align: right;
+    
+}
+
+ul li {
+    float: left;
+    margin-right: 20px;
+}
+
+nav {
+    padding: 10px 0px;
+    
+}
+
+.list {
+    text-align: center;
+}
+
+.user img {
+    margin-right: 10px;
+}
+.f-left{
+    float: left;
+}
+.f-right{
+    float: right;
+}
+.content{
+    width: 50%;
+}
+.main-img{
+    width: 50%;
+
+}
+.main-img img{
+    width: 100%;
+    
+}
+.main-section{
+    background-color: #f9fbfa ;
+    padding: 30px 10px;
+}
+.btn{
+    padding: 10px 20px;
+    border: none;
+    color: white;
+}
+.btn-orange{
+background-color: orange;
+}
+.btn-green{
+background-color:green;
+}
+.furniture{
+    background-color: aquamarine;
+}
+.card{
+    background-color: #f9fbfa;
+    width: 20%;
+    padding: 30px;
+    margin: 33%;
+}
+.card img{
+    width: 100%;
+    
+}
+.buy{
+    text-decoration: none;
+    color: aquamarine;
+}
